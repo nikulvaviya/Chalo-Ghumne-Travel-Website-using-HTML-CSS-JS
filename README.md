@@ -26,3 +26,6 @@ Chalo Ghumne is a responsive web application designed to help users explore and 
 
 ## Mobile
 ![Mobile Page](./assets/overview/Mobile-View.png)
+
+## iPad View
+![Mobile Page](./assets/overview/iPad-View.png)
