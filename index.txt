@@ -213,7 +213,6 @@ aria-label = send a message
 
 Copyright 2023. Made by
 href = https://youtube.com/@codewithsadee
-codewithsadee
 
 Terms and Condition
 Privacy and Policy
